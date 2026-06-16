@@ -1,2 +1,3 @@
 this is my first line
 this is updated line 2!!!
+THIS IS UPDATE FOR FETCH AND MERGE
